@@ -11,7 +11,7 @@ void main()
 
         for(k=1;k<=(2*i-1);k++)
 
-         printf("%ld",i);
+         printf("%d",i);
 
         printf("\n");
         }
